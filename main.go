@@ -5,5 +5,5 @@ import (
 )
 
 func main() {
-	a_plus_b.Add(2, 3)
+	a_plus_b.Add(2, 4)
 }
